@@ -1,0 +1,9 @@
+BENCHMARKING LMS
+
+1. Publicar index.html en la raíz del repositorio GitHub Pages.
+2. La plataforma contiene 3 unidades, 15 lecciones (5 por unidad), 3 quizzes de 15 preguntas y un examen final de 30 preguntas.
+3. El examen final es el único que envía nota a Google Sheets. Utiliza el mismo Apps Script y los mismos nueve encabezados del LMS anterior. El campo Unidad se registra como BENCHMARKING E INDICADORES DE GESTIÓN.
+4. La evaluación nunca se cierra por un cambio de pestaña ni por alcanzar el tiempo de referencia. Las salidas detectadas se registran como incidencias; el tiempo se pausa mientras la pestaña está oculta. Al agotarse el tiempo, se informa y el aprendiz puede finalizar voluntariamente.
+5. La sesión activa y respuestas se conservan en sessionStorage para recuperación ante recarga accidental en la misma pestaña. El progreso académico se guarda en localStorage del navegador.
+6. Antes de usar con estudiantes, probar en un repositorio de ensayo y confirmar la recepción en la hoja. El envío usa no-cors, por lo que el navegador no puede confirmar la escritura; comprobar la fila directamente en Google Sheets.
+7. La dirección Apps Script está visible en el HTML público, igual que en el LMS anterior. Para producción institucional se recomienda un intermediario servidor con autenticación y validación de datos.

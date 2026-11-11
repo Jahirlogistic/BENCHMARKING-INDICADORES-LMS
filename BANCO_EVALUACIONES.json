@@ -1,0 +1,910 @@
+{
+  "q1": [
+    {
+      "question": "Una entidad quiere comparar el tiempo de respuesta de dos sedes. La sede A inicia el conteo cuando recibe una solicitud completa; la sede B lo inicia cuando el usuario crea el formulario, incluso si faltan anexos. ¿Qué debe hacerse antes de comparar?",
+      "options": [
+        "Calcular ambos promedios y explicar la diferencia con el volumen mensual.",
+        "Acordar un mismo evento inicial y reglas equivalentes para solicitudes incompletas.",
+        "Tomar el menor tiempo como referente y fijar una meta institucional inmediata.",
+        "Excluir la sede con más solicitudes porque su operación tiene mayor demanda."
+      ],
+      "correct": 1,
+      "feedback": "Los tiempos no son comparables mientras el inicio y el tratamiento de solicitudes incompletas sean distintos.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una dirección solicita ‘ser la mejor organización’ mediante benchmarking. El equipo no tiene proceso ni indicador definidos. ¿Cuál es el primer ajuste metodológico?",
+      "options": [
+        "Seleccionar tres organizaciones reconocidas y solicitar sus resultados anuales.",
+        "Definir una pregunta delimitada, un proceso y un resultado medible que se desea mejorar.",
+        "Comprar una herramienta de indicadores para recopilar datos de todas las áreas.",
+        "Establecer una clasificación interna y premiar a la unidad con menor tiempo."
+      ],
+      "correct": 1,
+      "feedback": "El benchmarking necesita una pregunta y un alcance definidos antes de seleccionar referentes.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El tiempo medio de resolución bajó de 8 a 5 días, pero aumentaron los casos reabiertos del 4 % al 13 %. ¿Qué conclusión es más rigurosa?",
+      "options": [
+        "El proceso mejoró porque la reducción del tiempo es el objetivo principal.",
+        "El proceso empeoró porque cualquier aumento de reaperturas invalida el tiempo.",
+        "La mejora de tiempo debe analizarse junto con calidad y causas de reapertura.",
+        "La medición debe reemplazarse por el volumen total de casos cerrados."
+      ],
+      "correct": 2,
+      "feedback": "El tiempo es una dimensión; la calidad debe equilibrarse para evitar acelerar resoluciones defectuosas.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una empresa compara sus costos con los de un competidor. Este ofrece datos de precios futuros y condiciones comerciales reservadas. ¿Qué debe hacer el equipo?",
+      "options": [
+        "Aceptar los datos si se comparten verbalmente y no se guardan copias.",
+        "Solicitar solo los datos necesarios y obtenerlos por canales legítimos y autorizados.",
+        "Compartir a cambio su propia proyección para mantener reciprocidad.",
+        "Usar los datos en el análisis sin revelar el nombre de la empresa competidora."
+      ],
+      "correct": 1,
+      "feedback": "El anonimato no legitima el intercambio de información comercial sensible o no autorizada.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una institución observa que otra resuelve trámites en 2 días. Su propia población presenta más casos complejos y validaciones legales. ¿Qué paso evita una comparación engañosa?",
+      "options": [
+        "Ajustar o segmentar por complejidad y condiciones antes de interpretar la brecha.",
+        "Adoptar dos días como meta y revisar las excepciones después de implementarla.",
+        "Comparar únicamente los casos que ambas instituciones cerraron primero.",
+        "Eliminar del análisis los casos complejos para conservar un promedio simple."
+      ],
+      "correct": 0,
+      "feedback": "La mezcla de casos y las restricciones afectan el resultado y deben considerarse.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El equipo identifica una práctica exitosa en otra área de la misma organización. Ambas áreas usan el mismo sistema, pero atienden poblaciones distintas. ¿Qué modalidad describe la comparación?",
+      "options": [
+        "Benchmarking competitivo, porque las áreas disputan recursos institucionales.",
+        "Benchmarking interno, porque compara unidades pertenecientes a la organización.",
+        "Benchmarking funcional, porque se comparan organizaciones de sectores diferentes.",
+        "Benchmarking genérico, porque no existe relación entre los procesos observados."
+      ],
+      "correct": 1,
+      "feedback": "La comparación entre sedes o áreas de una misma entidad es benchmarking interno.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una organización desea aprender cómo otra administra mantenimiento preventivo, aunque pertenezcan a sectores distintos. ¿Qué categoría resulta más pertinente?",
+      "options": [
+        "Competitivo, porque ambas organizaciones compiten por los mismos usuarios.",
+        "Funcional, porque compara una función equivalente entre sectores diferentes.",
+        "Interno, porque los procesos pueden representarse con el mismo diagrama.",
+        "Financiero, porque toda comparación de mantenimiento debe medir costos."
+      ],
+      "correct": 1,
+      "feedback": "El benchmarking funcional permite aprender de funciones equivalentes en sectores distintos.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El referente reporta 92 % de cumplimiento, pero no entrega fórmula, periodo ni denominador. ¿Cuál es la decisión más sólida?",
+      "options": [
+        "Incorporar 92 % como estándar provisional y documentar la fuente al final.",
+        "Solicitar definición, periodo, universo y método antes de usar el dato como comparación.",
+        "Convertir el porcentaje en meta y calcular la brecha con el resultado propio.",
+        "Reemplazar el dato por una estimación construida a partir de entrevistas."
+      ],
+      "correct": 1,
+      "feedback": "Sin ficha técnica no puede verificarse qué representa el porcentaje.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un estudio muestra que el referente usa menos personal por solicitud. El equipo propone reducir turnos de inmediato. ¿Qué análisis falta?",
+      "options": [
+        "Comprobar volumen, complejidad, tecnología, calidad y distribución de tareas.",
+        "Confirmar que el referente tenga más empleados en el área administrativa.",
+        "Calcular el ahorro salarial esperado y presentar la decisión a dirección.",
+        "Comparar únicamente el número de solicitudes cerradas por mes."
+      ],
+      "correct": 0,
+      "feedback": "La dotación no explica por sí sola productividad; deben compararse insumos, contexto y calidad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "La línea base se construyó con datos de enero, pero el referente usa el promedio de todo el año, que incluye temporada alta. ¿Qué corrección conviene?",
+      "options": [
+        "Mantener los periodos porque ambos valores están expresados en días.",
+        "Alinear ventanas temporales y considerar estacionalidad antes de comparar.",
+        "Tomar el valor anual como meta y conservar enero como punto de partida.",
+        "Eliminar los datos de temporada alta para reducir la variabilidad del referente."
+      ],
+      "correct": 1,
+      "feedback": "Los periodos deben ser comparables y contemplar estacionalidad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El equipo detecta una brecha de 30 % frente al referente, pero no conoce las causas. ¿Cuál es el siguiente paso?",
+      "options": [
+        "Copiar el procedimiento del referente y medir los resultados al finalizar.",
+        "Analizar el flujo, las esperas, la capacidad y las causas que explican la brecha.",
+        "Fijar una meta 30 % mejor y asignar la responsabilidad al supervisor.",
+        "Publicar la brecha en el tablero para que cada área proponga soluciones."
+      ],
+      "correct": 1,
+      "feedback": "La brecha describe diferencia; el análisis causal orienta una intervención pertinente.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una práctica externa requiere software que la organización no tiene y una autorización regulatoria distinta. ¿Qué decisión refleja adaptación responsable?",
+      "options": [
+        "Implementarla sin cambios para conservar la fidelidad al referente.",
+        "Evaluar requisitos, rediseñar componentes transferibles y pilotear la adaptación.",
+        "Descartarla sin análisis porque la tecnología no es idéntica.",
+        "Solicitar al referente que asuma la responsabilidad de la implementación local."
+      ],
+      "correct": 1,
+      "feedback": "La transferencia exige adaptar la práctica a capacidades y restricciones propias.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un estudio presenta una tabla con porcentajes, pero no identifica fuente, periodo ni exclusiones. ¿Qué limitación tiene?",
+      "options": [
+        "La tabla no permite verificar ni reproducir los resultados presentados.",
+        "La tabla solo sirve para comunicación externa y no para decisiones internas.",
+        "Los porcentajes no pueden utilizarse en benchmarking por ser valores relativos.",
+        "El estudio es válido si el equipo confirma verbalmente los resultados."
+      ],
+      "correct": 0,
+      "feedback": "La trazabilidad requiere fuente, periodo, definición y reglas de cálculo.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un área adopta una práctica y mejora durante dos semanas; luego vuelve al nivel anterior. ¿Qué faltó probablemente?",
+      "options": [
+        "Un plan de sostenimiento, responsables, controles y seguimiento de resultados.",
+        "Una comparación con más organizaciones antes de iniciar el piloto.",
+        "Un indicador de reputación para comunicar el éxito de la iniciativa.",
+        "Una reducción permanente del alcance para mantener el resultado inicial."
+      ],
+      "correct": 0,
+      "feedback": "La mejora requiere institucionalización y seguimiento, no solo una intervención temporal.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El informe recomienda automatizar, pero el análisis muestra que la demora principal ocurre por documentos incompletos enviados por usuarios. ¿Qué decisión es mejor?",
+      "options": [
+        "Automatizar el flujo actual y permitir que el sistema gestione los faltantes.",
+        "Rediseñar primero las instrucciones y validaciones de entrada, y luego evaluar automatización.",
+        "Aumentar el personal de aprobación para compensar los documentos faltantes.",
+        "Cambiar el indicador de tiempo por el número de formularios recibidos."
+      ],
+      "correct": 1,
+      "feedback": "La solución debe abordar la causa dominante antes de automatizar un proceso defectuoso.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    }
+  ],
+  "q2": [
+    {
+      "question": "Una empresa desea comparar su proceso de compras con el de una entidad de salud que tiene una función de abastecimiento madura. ¿Qué enfoque es más apropiado?",
+      "options": [
+        "Benchmarking competitivo, porque ambas adquieren bienes y servicios.",
+        "Benchmarking funcional, porque compara una función equivalente en sectores distintos.",
+        "Benchmarking interno, porque ambas organizaciones pueden usar proveedores comunes.",
+        "Benchmarking de producto, porque el objeto principal son los artículos comprados."
+      ],
+      "correct": 1,
+      "feedback": "Se compara una función equivalente entre organizaciones de sectores diferentes.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Dos organizaciones acuerdan compartir información de tiempos. Una solicita también la lista confidencial de clientes de la otra. ¿Cómo debe actuar el equipo?",
+      "options": [
+        "Entregar la lista si se elimina el nombre de la persona de contacto.",
+        "Limitar el intercambio a información autorizada y pertinente para el estudio.",
+        "Compartir una muestra pequeña para mantener la cooperación entre equipos.",
+        "Aceptar el intercambio si ambas organizaciones firman el mismo compromiso."
+      ],
+      "correct": 1,
+      "feedback": "La reciprocidad o un acuerdo no autorizan compartir datos confidenciales sin base legítima.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un estudio tiene objetivo, alcance y referentes, pero no explica cómo se seleccionaron las organizaciones. ¿Qué componente debe completarse?",
+      "options": [
+        "La metodología de selección, criterios de pertinencia y justificación de referentes.",
+        "El resumen ejecutivo con una recomendación más directa para la gerencia.",
+        "El presupuesto anual de todas las organizaciones que participaron.",
+        "La lista de acciones correctivas que se aplicarán después del informe."
+      ],
+      "correct": 0,
+      "feedback": "La selección debe ser transparente y reproducible.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El referente presenta menor costo por trámite, pero excluye del cálculo los casos que requieren revisión especializada. ¿Qué tratamiento corresponde?",
+      "options": [
+        "Comparar el costo publicado y señalar la diferencia en una nota al pie.",
+        "Solicitar datos segmentados o recalcular con una población equivalente.",
+        "Adoptar el costo como meta y transferir los casos complejos a otra unidad.",
+        "Excluir también los casos complejos propios para conservar el mismo costo."
+      ],
+      "correct": 1,
+      "feedback": "La población debe ser equivalente; las exclusiones cambian el significado del indicador.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una brecha de satisfacción se atribuye a ‘falta de compromiso’, sin evidencia adicional. ¿Qué mejora el análisis?",
+      "options": [
+        "Reemplazar la opinión por una hipótesis y contrastarla con datos y observación.",
+        "Convertir la explicación en una recomendación de capacitación obligatoria.",
+        "Usar la opinión del jefe como causa principal por su experiencia en el proceso.",
+        "Evitar el análisis causal y concentrarse en comparar las puntuaciones finales."
+      ],
+      "correct": 0,
+      "feedback": "Las causas deben sustentarse con evidencia, no con atribuciones generales.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El equipo visita a un referente y observa una práctica exitosa, pero no registra condiciones, roles ni controles. ¿Qué riesgo aparece?",
+      "options": [
+        "La práctica no podrá evaluarse ni adaptarse con suficiente precisión.",
+        "La práctica será demasiado costosa para reproducirse en cualquier contexto.",
+        "El referente podrá retirar automáticamente la autorización del estudio.",
+        "La observación dejará de ser válida por no incluir una encuesta de satisfacción."
+      ],
+      "correct": 0,
+      "feedback": "La documentación de condiciones de operación permite entender y adaptar la práctica.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El informe muestra un promedio de 4 días, pero la mediana es 2 y el percentil 90 es 11. ¿Qué lectura es más adecuada?",
+      "options": [
+        "La mayoría de los casos tarda exactamente cuatro días en completarse.",
+        "Existe una distribución asimétrica con casos prolongados que elevan el promedio.",
+        "La mediana debe descartarse porque no utiliza todos los registros del periodo.",
+        "El percentil 90 confirma que el proceso cumple cuatro días en nueve de cada diez casos."
+      ],
+      "correct": 1,
+      "feedback": "La diferencia entre promedio, mediana y percentil sugiere una cola de casos largos.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El estudio compara un trimestre actual con un año completo del referente. ¿Qué debe corregirse?",
+      "options": [
+        "Usar periodos equivalentes o justificar el ajuste por estacionalidad y cobertura.",
+        "Convertir ambos resultados a porcentajes y conservar las ventanas originales.",
+        "Usar el dato más reciente del referente aunque corresponda a otro periodo.",
+        "Promediar los dos periodos sin ponderar para reducir diferencias temporales."
+      ],
+      "correct": 0,
+      "feedback": "La ventana de observación debe ser comparable y documentada.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "La dirección quiere implementar en toda la organización una práctica que solo se probó en una sede. ¿Qué paso reduce el riesgo?",
+      "options": [
+        "Escalar de inmediato y evaluar el resultado al cierre del siguiente año.",
+        "Realizar un piloto controlado en contextos distintos y definir criterios de escalamiento.",
+        "Exigir que las demás sedes adopten la práctica sin modificar sus procedimientos.",
+        "Sustituir la evaluación por una encuesta de aceptación entre los responsables."
+      ],
+      "correct": 1,
+      "feedback": "El piloto prueba transferibilidad y efectos antes de generalizar.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un tablero presenta verde cuando el tiempo baja, aunque los errores aumentan. ¿Qué diseño conviene?",
+      "options": [
+        "Mantener el semáforo porque el tiempo es el indicador principal del proyecto.",
+        "Incorporar un indicador de calidad como medida de equilibrio y reglas conjuntas.",
+        "Cambiar el color a amarillo solo cuando aumenten los costos del proceso.",
+        "Eliminar el indicador de tiempo para evitar que el equipo priorice la velocidad."
+      ],
+      "correct": 1,
+      "feedback": "Los indicadores de equilibrio evitan optimizar una dimensión deteriorando otra.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un informe afirma que la práctica del referente causó la mejora, pero solo presenta una comparación descriptiva. ¿Qué debe hacer?",
+      "options": [
+        "Cambiar la afirmación causal por una interpretación prudente y declarar límites.",
+        "Mantener la causalidad porque la práctica se observó antes del resultado.",
+        "Eliminar la sección de resultados para no exponer incertidumbre metodológica.",
+        "Atribuir la mejora a la cultura del referente, aunque no se haya medido."
+      ],
+      "correct": 0,
+      "feedback": "Una comparación descriptiva no prueba por sí sola causalidad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "La matriz de referentes pondera desempeño, pero no considera confiabilidad de datos ni posibilidad de aprendizaje. ¿Qué ajuste es clave?",
+      "options": [
+        "Agregar criterios de calidad de evidencia y transferibilidad al proceso propio.",
+        "Elegir únicamente el referente con mayor volumen de operaciones anuales.",
+        "Asignar el mismo puntaje a todos los criterios para evitar decisiones subjetivas.",
+        "Reemplazar los criterios por una votación entre los integrantes del equipo."
+      ],
+      "correct": 0,
+      "feedback": "El referente debe ser sobresaliente y aportar evidencia confiable y transferible.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "La organización comparte un estudio con nombres de participantes y datos personales innecesarios. ¿Qué acción es correcta?",
+      "options": [
+        "Conservar los datos para que el informe sea más transparente y detallado.",
+        "Aplicar minimización, anonimización cuando proceda y controles de acceso.",
+        "Publicar el informe solo en la intranet para eliminar cualquier obligación.",
+        "Eliminar las fuentes y conservar las cifras para que no puedan verificarse."
+      ],
+      "correct": 1,
+      "feedback": "La protección de datos exige limitar información personal y controlar acceso.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una iniciativa piloto redujo 15 % el tiempo, pero no se midieron costos ni errores. ¿Qué decisión es más responsable?",
+      "options": [
+        "Escalarla porque la reducción del tiempo supera el objetivo inicial.",
+        "Completar la evaluación con indicadores de costo y calidad antes de escalar.",
+        "Repetir el piloto sin modificar nada y utilizar el tiempo como única evidencia.",
+        "Cancelar la iniciativa porque no se midieron todos los indicadores desde el inicio."
+      ],
+      "correct": 1,
+      "feedback": "La decisión requiere revisar efectos de equilibrio antes de escalar.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un estudio termina con recomendaciones generales como ‘mejorar la comunicación’. ¿Qué debe añadirse para convertirlas en gestión?",
+      "options": [
+        "Responsable, acción concreta, recursos, plazo, indicador y criterio de seguimiento.",
+        "Una comparación adicional de reputación para reforzar la recomendación.",
+        "Una lista de buenas prácticas internacionales sin priorización institucional.",
+        "Una declaración de compromiso de todas las áreas sin fechas de ejecución."
+      ],
+      "correct": 0,
+      "feedback": "Las recomendaciones deben convertirse en acciones ejecutables y verificables.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    }
+  ],
+  "q3": [
+    {
+      "question": "Un tablero contiene 42 indicadores para un proceso con cuatro objetivos. Los responsables no saben cuáles requieren acción prioritaria. ¿Qué conviene hacer?",
+      "options": [
+        "Conservar todos los indicadores y aumentar la frecuencia de los reportes.",
+        "Depurar duplicidades y vincular un conjunto equilibrado con objetivos y decisiones.",
+        "Eliminar los indicadores de resultado y conservar solo los operativos.",
+        "Ordenar las métricas por facilidad de cálculo y asignarles el mismo peso."
+      ],
+      "correct": 1,
+      "feedback": "El sistema debe ser accionable y vincular métricas con objetivos, no acumular cifras.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una máquina estuvo disponible 200 horas y operó 150 horas. ¿Cuál fue su utilización sobre disponibilidad?",
+      "options": [
+        "25 %, porque 50 horas no se utilizaron durante el periodo.",
+        "75 %, porque 150 horas de operación se dividen entre 200 disponibles.",
+        "80 %, porque se descuentan 40 horas de mantenimiento estimado.",
+        "150 %, porque las horas operadas superan las cien horas de referencia."
+      ],
+      "correct": 1,
+      "feedback": "150/200 × 100 = 75 %.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un equipo aumenta su utilización de 78 % a 96 %, pero las colas y las horas extra crecen. ¿Qué interpretación es más adecuada?",
+      "options": [
+        "La utilización alta demuestra que la capacidad se gestiona mejor.",
+        "La mayor utilización puede haber reducido holgura y elevado congestión.",
+        "Las colas no se relacionan con utilización cuando el volumen permanece estable.",
+        "La organización debe mantener 96 % como meta para todos los equipos."
+      ],
+      "correct": 1,
+      "feedback": "La utilización extrema puede aumentar esperas y reducir capacidad de respuesta.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "De 250 órdenes elegibles, 225 se completaron dentro del plazo. ¿Cuál es el rendimiento oportuno?",
+      "options": [
+        "85 %, porque 25 órdenes quedaron fuera del plazo.",
+        "90 %, porque 225 órdenes oportunas se dividen entre 250 elegibles.",
+        "92 %, porque se excluyen las órdenes que no llegaron a cierre.",
+        "95 %, porque la mayoría de órdenes se procesó durante el periodo."
+      ],
+      "correct": 1,
+      "feedback": "225/250 × 100 = 90 %.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un área cerró 500 solicitudes, pero 70 fueron reabiertas por errores. ¿Qué indicador complementa mejor el volumen de cierre?",
+      "options": [
+        "Tasa de cierres conformes o de reapertura, con definición de población y periodo.",
+        "Número total de usuarios atendidos, sin diferenciar el estado de cada solicitud.",
+        "Porcentaje de ocupación del espacio físico utilizado por el equipo de trabajo.",
+        "Cantidad de reuniones realizadas para revisar el estado de las solicitudes."
+      ],
+      "correct": 0,
+      "feedback": "El volumen no refleja calidad; debe medirse conformidad o reapertura.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un turno procesa 360 unidades conformes en 90 horas-persona. ¿Cuál es su productividad laboral?",
+      "options": [
+        "3 unidades por hora-persona, porque se descuentan las pausas del turno.",
+        "4 unidades por hora-persona, porque 360 se divide entre 90.",
+        "90 unidades por hora-persona, porque las horas son el denominador principal.",
+        "450 unidades por hora-persona, porque se suman las unidades y las horas."
+      ],
+      "correct": 1,
+      "feedback": "360/90 = 4 unidades conformes por hora-persona.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El turno B produce más unidades que el turno A, pero utiliza proporcionalmente muchas más horas. ¿Qué comparación permite juzgar productividad?",
+      "options": [
+        "Comparar únicamente el total de unidades terminadas por cada turno.",
+        "Dividir las salidas conformes por los recursos consumidos en cada turno.",
+        "Comparar las horas disponibles sin tener en cuenta las unidades producidas.",
+        "Elegir el turno con mayor volumen y utilizarlo como referencia institucional."
+      ],
+      "correct": 1,
+      "feedback": "Productividad relaciona salida con insumos, no solo volumen.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un indicador de utilización considera como disponible el tiempo de mantenimiento programado. Otra sede lo excluye. ¿Qué ocurre?",
+      "options": [
+        "La comparación no es válida hasta acordar la definición del denominador.",
+        "La sede que excluye mantenimiento siempre tendrá una utilización menor.",
+        "El valor puede compararse si ambas sedes tienen el mismo número de equipos.",
+        "La diferencia desaparece al expresar el resultado con un decimal."
+      ],
+      "correct": 0,
+      "feedback": "La definición de capacidad disponible debe ser homogénea.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una organización mide el promedio de tiempo de atención, pero algunos casos duran mucho más que el resto. ¿Qué medida aporta contexto?",
+      "options": [
+        "Mediana y percentiles, además de segmentación por tipo de caso.",
+        "Solo el máximo mensual, porque representa el peor escenario posible.",
+        "El número de empleados, sin relacionarlo con tiempos o volúmenes.",
+        "El porcentaje de utilización de oficinas, aunque no mida el flujo de atención."
+      ],
+      "correct": 0,
+      "feedback": "Mediana y percentiles ayudan a entender distribución y casos extremos.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El indicador ‘productividad’ se define como total de unidades, sin considerar horas ni otros recursos. ¿Qué corrección requiere?",
+      "options": [
+        "Renombrarlo como volumen de producción o incorporar un denominador de recursos.",
+        "Mantener el nombre porque las unidades reflejan el esfuerzo de cada persona.",
+        "Dividir las unidades por el número de días hábiles sin documentar el cálculo.",
+        "Cambiarlo por utilización porque ambos indicadores describen producción."
+      ],
+      "correct": 0,
+      "feedback": "Sin relación salida/insumo, la métrica es volumen, no productividad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El proceso cumple 98 % del plazo, pero el costo por caso sube 30 %. ¿Qué debe mostrar el tablero?",
+      "options": [
+        "Solo cumplimiento del plazo, porque el costo se controla en presupuesto.",
+        "Ambas dimensiones y su tendencia para evaluar el equilibrio del desempeño.",
+        "Solo costo por caso, porque el cumplimiento del plazo ya es alto.",
+        "Un promedio de los porcentajes para obtener un único resultado general."
+      ],
+      "correct": 1,
+      "feedback": "El desempeño requiere una lectura equilibrada de tiempo y costo.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un indicador cambió de fórmula a mitad de año. ¿Cómo debe gestionarse la serie histórica?",
+      "options": [
+        "Mantener todos los datos juntos y explicar el cambio en una reunión.",
+        "Versionar la ficha y recalcular la serie si hay datos comparables o marcar ruptura.",
+        "Borrar los valores anteriores para evitar que afecten la tendencia actual.",
+        "Comparar los valores nuevos con la meta anterior sin hacer ajustes."
+      ],
+      "correct": 1,
+      "feedback": "Un cambio metodológico puede romper comparabilidad; debe versionarse y tratarse.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El indicador de productividad mejora porque se externalizó parte del trabajo, pero el costo total y los defectos no se incluyeron. ¿Qué falta?",
+      "options": [
+        "Incorporar los recursos transferidos y medidas de calidad al análisis.",
+        "Excluir a proveedores porque la productividad solo corresponde a empleados internos.",
+        "Usar el volumen total como prueba de que la productividad mejoró.",
+        "Reemplazar productividad por número de contratos firmados en el periodo."
+      ],
+      "correct": 0,
+      "feedback": "La externalización cambia el límite del proceso y puede ocultar insumos y defectos.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un proceso registra 40 horas de parada no planificada sobre 400 horas programadas. ¿Qué indicador describe directamente esa proporción?",
+      "options": [
+        "Tasa de parada no planificada: 40/400 × 100 = 10 %.",
+        "Productividad laboral: 400/40 = 10 horas por persona.",
+        "Rendimiento de producción: 40/400 × 100 = 10 % de unidades conformes.",
+        "Utilización de capacidad: 40/400 × 100 = 10 % de operación efectiva."
+      ],
+      "correct": 0,
+      "feedback": "El indicador describe la fracción del tiempo programado perdida por paradas no planificadas.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un gerente propone premiar al equipo por cantidad de casos cerrados, sin medir reaperturas ni complejidad. ¿Qué riesgo existe?",
+      "options": [
+        "Que el equipo priorice casos simples y cierre rápido sin asegurar calidad.",
+        "Que el indicador se vuelva imposible de calcular con datos transaccionales.",
+        "Que el volumen de cierres deje de representar una salida del proceso.",
+        "Que la productividad se mantenga constante aunque cambien los recursos."
+      ],
+      "correct": 0,
+      "feedback": "Los incentivos pueden inducir selección de casos y deterioro de calidad si no hay equilibrio.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    }
+  ],
+  "final": [
+    {
+      "question": "Una organización compara el tiempo de respuesta de dos procesos. El propio registra desde la radicación; el referente desde que el expediente está completo. La diferencia observada es de 3 días. ¿Qué decisión debe preceder a cualquier meta?",
+      "options": [
+        "Convertir los tres días en una reducción objetivo para el próximo trimestre.",
+        "Homologar el evento inicial y el tratamiento de expedientes incompletos.",
+        "Usar el promedio del referente y excluir las solicitudes que requieren anexos.",
+        "Publicar la brecha como evidencia de que el proceso propio tiene baja productividad."
+      ],
+      "correct": 1,
+      "feedback": "Las mediciones parten de eventos distintos; primero se homologan definiciones y población.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El referente externo tiene 94 % de cumplimiento. Su ficha revela que excluye los casos suspendidos; la organización propia los incluye. ¿Qué comparación es defendible?",
+      "options": [
+        "Comparar los porcentajes y agregar una nota sobre las suspensiones.",
+        "Recalcular ambos con reglas equivalentes o presentar resultados segmentados.",
+        "Adoptar 94 % como meta y mantener el cálculo propio sin cambios.",
+        "Excluir las suspensiones propias sin revisar si cumplen el mismo criterio."
+      ],
+      "correct": 1,
+      "feedback": "Los universos y exclusiones deben ser equivalentes o mostrarse por separado.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un área procesa 480 solicitudes en 120 horas-persona. Otra procesa 420 en 90 horas-persona. Ambas reportan 98 % de conformidad. ¿Cuál presenta mayor productividad laboral?",
+      "options": [
+        "La primera, con 4 solicitudes conformes por hora-persona.",
+        "La segunda, con 4,67 solicitudes conformes por hora-persona.",
+        "La primera, porque su volumen total supera al de la segunda.",
+        "Ambas, porque tienen el mismo porcentaje de conformidad."
+      ],
+      "correct": 1,
+      "feedback": "480/120 = 4; 420/90 = 4,67. La segunda produce más por hora-persona.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una sede utiliza 92 % de sus horas disponibles, pero tiene demoras de atención crecientes. El análisis muestra llegadas concentradas en dos franjas. ¿Qué acción es más pertinente?",
+      "options": [
+        "Elevar la utilización objetivo para absorber más solicitudes en las franjas pico.",
+        "Redistribuir capacidad según patrón de demanda y revisar colas y tiempos de espera.",
+        "Reducir pausas para aumentar horas operativas sin cambiar la programación.",
+        "Comparar la sede con el promedio anual y posponer ajustes hasta el siguiente periodo."
+      ],
+      "correct": 1,
+      "feedback": "La utilización global oculta distribución temporal; la capacidad debe alinearse con demanda.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una empresa observa que el referente resuelve 80 % de solicitudes en 24 horas. Su propia cifra es 62 %. Sin embargo, su mezcla incluye más casos complejos. ¿Qué análisis fortalece la conclusión?",
+      "options": [
+        "Comparar solo el promedio global y asumir que la brecha se debe al método.",
+        "Estratificar por complejidad y contrastar resultados dentro de grupos comparables.",
+        "Excluir todos los casos complejos del proceso propio y conservar el referente completo.",
+        "Usar el porcentaje del referente como meta inmediata para todos los tipos de solicitud."
+      ],
+      "correct": 1,
+      "feedback": "La estratificación controla diferencias de mezcla y permite comparar grupos equivalentes.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "En un estudio funcional, una organización de otro sector muestra un proceso de compras más rápido. La regulación aplicable es diferente. ¿Cómo aprovechar el hallazgo?",
+      "options": [
+        "Copiar los pasos completos porque la función de compras es transversal.",
+        "Identificar principios transferibles y rediseñar controles conforme a la regulación propia.",
+        "Descartar el estudio porque las organizaciones no pertenecen al mismo sector.",
+        "Solicitar al referente que certifique que su procedimiento cumple la regulación local."
+      ],
+      "correct": 1,
+      "feedback": "La práctica se adapta; la organización propia conserva responsabilidad regulatoria.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un tablero muestra 97 % de cumplimiento de plazo, 12 % de reaperturas y costo unitario creciente. La dirección propone premiar solo el plazo. ¿Qué recomendación es más sólida?",
+      "options": [
+        "Mantener el incentivo porque el plazo es el objetivo que se comunicó al equipo.",
+        "Diseñar metas equilibradas de plazo, calidad y costo para evitar optimización parcial.",
+        "Eliminar las reaperturas del indicador porque ocurren después del cierre inicial.",
+        "Sustituir los tres indicadores por el número total de casos terminados."
+      ],
+      "correct": 1,
+      "feedback": "Los incentivos deben evitar que la mejora de una dimensión deteriore otras.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un proceso tiene 600 horas programadas, 60 de mantenimiento planificado y 450 de operación efectiva. Si la disponibilidad se define excluyendo mantenimiento planificado, ¿cuál es la utilización?",
+      "options": [
+        "75 %, porque 450/600 representa la operación frente al tiempo programado.",
+        "83,3 %, porque 450/(600−60) representa operación frente a disponibilidad.",
+        "90 %, porque 540/600 representa el tiempo que no estuvo en mantenimiento.",
+        "100 %, porque las horas de mantenimiento planificado no se consideran pérdida."
+      ],
+      "correct": 1,
+      "feedback": "Tiempo disponible = 540; utilización = 450/540 × 100 = 83,3 %.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El informe de benchmarking atribuye una mejora a la automatización. No hubo piloto ni control de cambios y, simultáneamente, se duplicó el personal. ¿Cómo debe redactarse la conclusión?",
+      "options": [
+        "La automatización causó la mejora porque se implementó antes del resultado.",
+        "La mejora coincidió con varios cambios; no puede atribuirse causalidad a uno solo.",
+        "El aumento de personal demuestra que la automatización fue innecesaria.",
+        "La causalidad puede afirmarse si el resultado supera el promedio del sector."
+      ],
+      "correct": 1,
+      "feedback": "Sin diseño que aísle efectos, la evidencia es descriptiva y no prueba causalidad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un equipo recibe datos de un competidor sobre precios futuros y capacidad comercial reservada. El estudio solo necesita comparar tiempos de entrega. ¿Qué debe hacer?",
+      "options": [
+        "Usar toda la información porque fue ofrecida voluntariamente por el competidor.",
+        "Rechazar o excluir información sensible y limitarse a fuentes legítimas pertinentes.",
+        "Guardar los datos en un archivo separado y no compartirlos con dirección.",
+        "Anonimizar los precios y conservarlos para mejorar la calidad del estudio."
+      ],
+      "correct": 1,
+      "feedback": "La información sensible no se vuelve legítima por ser ofrecida o anonimizada.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un proceso produce 1.000 unidades; 80 requieren reproceso y 20 se descartan. Se consumieron 200 horas-persona. Si productividad se calcula sobre unidades conformes al primer paso, ¿cuál es?",
+      "options": [
+        "5 unidades por hora-persona, usando 1.000 unidades totales.",
+        "4,5 unidades por hora-persona, usando 900 unidades conformes al primer paso.",
+        "4,6 unidades por hora-persona, usando 920 unidades no descartadas.",
+        "4 unidades por hora-persona, usando solo las 80 unidades reprocesadas."
+      ],
+      "correct": 1,
+      "feedback": "Unidades conformes al primer paso = 1.000−80−20 = 900; 900/200 = 4,5.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El referente comunica una mediana de 3 días y la organización propia un promedio de 3 días. ¿Qué se puede afirmar?",
+      "options": [
+        "Ambos procesos tienen la misma distribución y nivel de servicio.",
+        "Los valores no son directamente equivalentes porque resumen distribuciones distintas.",
+        "La mediana del referente demuestra que todos sus casos duran tres días.",
+        "El promedio propio es más confiable porque incorpora todos los registros."
+      ],
+      "correct": 1,
+      "feedback": "Mediana y promedio son medidas distintas; se requieren estadísticas comparables.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una unidad registra utilización de 99 % durante cuatro meses y aumenta el tiempo de espera y las horas extra. ¿Qué decisión de capacidad conviene evaluar?",
+      "options": [
+        "Aumentar la meta de utilización para elevar la producción por hora.",
+        "Crear holgura o capacidad flexible en periodos críticos y medir el efecto en colas.",
+        "Eliminar el mantenimiento preventivo para recuperar horas disponibles.",
+        "Comparar únicamente el costo de personal con el referente más cercano."
+      ],
+      "correct": 1,
+      "feedback": "La saturación sostenida puede generar colas; se evalúa capacidad flexible y holgura.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El indicador de cumplimiento se calcula como órdenes a tiempo / órdenes cerradas. Durante el periodo quedan 40 órdenes abiertas, varias vencidas. ¿Qué sesgo puede producir?",
+      "options": [
+        "Puede sobreestimar el cumplimiento al excluir órdenes abiertas vencidas del denominador.",
+        "Puede subestimar el cumplimiento porque las órdenes abiertas no tienen fecha de cierre.",
+        "No produce sesgo porque solo las órdenes cerradas pertenecen al proceso.",
+        "Convierte el indicador en una medida de productividad por hora-persona."
+      ],
+      "correct": 0,
+      "feedback": "Excluir órdenes abiertas vencidas puede ocultar incumplimientos; debe definirse elegibilidad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un referente tiene menor costo por caso porque deriva actividades a un proveedor. El estudio propio solo contabiliza costos internos. ¿Qué se requiere?",
+      "options": [
+        "Comparar los costos internos porque el proveedor es un tercero ajeno al proceso.",
+        "Incluir costos externalizados y definir límites equivalentes del proceso comparado.",
+        "Excluir al proveedor del referente y conservar el costo publicado como referencia.",
+        "Usar solo el costo salarial para eliminar diferencias de contratación."
+      ],
+      "correct": 1,
+      "feedback": "El límite del proceso y los insumos incluidos deben ser equivalentes.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una organización detecta que la productividad subió 18 %, pero la satisfacción cayó y las quejas aumentaron. ¿Qué revisión es prioritaria?",
+      "options": [
+        "Confirmar que las salidas contabilizadas cumplen los criterios de calidad y servicio.",
+        "Aumentar la meta de productividad porque el indicador muestra mejora sostenida.",
+        "Eliminar las quejas que no se convierten en reclamaciones formales.",
+        "Comparar las horas-persona con el referente y cerrar el análisis de desempeño."
+      ],
+      "correct": 0,
+      "feedback": "La productividad debe basarse en salidas conformes y equilibrarse con experiencia del usuario.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un estudio seleccionó como referente a la organización con mejor resultado publicado, pero sus datos son de hace cinco años. ¿Qué debe verificarse?",
+      "options": [
+        "La vigencia, contexto y comparabilidad de la evidencia antes de mantenerla como referente.",
+        "La reputación de la organización, porque compensa la antigüedad de los datos.",
+        "El tamaño de la muestra original, sin considerar los cambios posteriores.",
+        "La posibilidad de convertir el dato histórico a valores actuales mediante inflación."
+      ],
+      "correct": 0,
+      "feedback": "El desempeño y las condiciones pueden haber cambiado; la evidencia debe ser vigente.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Dos procesos tienen 90 % de utilización. Uno opera de forma estable; el otro presenta picos de demanda y colas extensas. ¿Qué indicador complementario ayuda a explicar la diferencia?",
+      "options": [
+        "Tiempo de espera y variabilidad de llegadas o carga por franja.",
+        "Número de indicadores que cada supervisor presenta en la reunión mensual.",
+        "Porcentaje de presupuesto ejecutado por cada unidad al cierre del periodo.",
+        "Cantidad de procedimientos documentados en el repositorio institucional."
+      ],
+      "correct": 0,
+      "feedback": "La utilización promedio no refleja variabilidad ni colas; se requiere observar espera y demanda.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El estudio recomienda reducir personal porque el referente procesa más casos por empleado. El referente usa autoservicio digital que no existe en la organización. ¿Qué análisis falta?",
+      "options": [
+        "Evaluar el efecto de la tecnología y los recursos complementarios sobre la productividad.",
+        "Reducir personal en la misma proporción para igualar la relación publicada.",
+        "Excluir las solicitudes digitales del referente y conservar el número de empleados.",
+        "Medir solo satisfacción para decidir si el autoservicio puede reemplazar personal."
+      ],
+      "correct": 0,
+      "feedback": "La productividad depende del conjunto de insumos y del diseño del proceso.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un indicador de rendimiento registra 85 % de cumplimiento frente a una meta de 90 %. El dato de 15 % incumplido incluye cancelaciones ajenas al proceso. ¿Qué se debe hacer?",
+      "options": [
+        "Eliminar todas las cancelaciones sin documentar la regla de exclusión.",
+        "Definir elegibilidad y causa de cancelación, recalcular y documentar el universo del indicador.",
+        "Mantener 85 % y exigir a los responsables recuperar cinco puntos en el siguiente mes.",
+        "Cambiar el indicador a unidades producidas para evitar discutir las cancelaciones."
+      ],
+      "correct": 1,
+      "feedback": "El denominador debe representar casos sobre los que el proceso es responsable, con reglas explícitas.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una práctica del referente reduce pasos de aprobación, pero el proceso propio requiere una autorización legal obligatoria. ¿Qué adaptación es correcta?",
+      "options": [
+        "Eliminar la autorización para reproducir el desempeño del referente.",
+        "Mantener el control obligatorio y simplificar pasos redundantes que no sean exigidos.",
+        "Solicitar al referente que asuma la aprobación de las operaciones propias.",
+        "Excluir del benchmarking todos los procesos regulados por ley."
+      ],
+      "correct": 1,
+      "feedback": "La adaptación respeta requisitos obligatorios y elimina solo actividades no necesarias.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "La productividad se reporta como 12 casos por hora, pero el mes siguiente se incluyen casos de complejidad mucho mayor. ¿Qué permite una comparación más justa?",
+      "options": [
+        "Segmentar por complejidad o ponderar las salidas con criterios definidos y estables.",
+        "Mantener la métrica porque la unidad ‘casos’ no cambia entre los periodos.",
+        "Aumentar la meta para compensar el mayor esfuerzo de los casos complejos.",
+        "Excluir los casos complejos después de conocer el resultado del periodo."
+      ],
+      "correct": 0,
+      "feedback": "La mezcla de complejidad afecta la salida; debe controlarse con segmentación o ponderación previa.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El tablero muestra utilización 70 %, rendimiento 96 % y productividad estable. ¿Qué lectura evita confundir conceptos?",
+      "options": [
+        "La capacidad se usa parcialmente, el cumplimiento del estándar es alto y la salida por recurso no cambia.",
+        "El proceso es 70 % productivo, 96 % utilizado y produce 26 % más que el periodo anterior.",
+        "El rendimiento bajo explica la utilización y demuestra que se debe ampliar la plantilla.",
+        "La productividad es alta porque el cumplimiento del estándar supera el 90 %."
+      ],
+      "correct": 0,
+      "feedback": "Utilización, rendimiento y productividad describen dimensiones distintas y complementarias.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un indicador fue recalculado con nueva fuente de datos desde julio. La serie anterior no puede reconstruirse. ¿Cómo debe presentarse?",
+      "options": [
+        "Unir ambas series y conservar una sola tendencia continua para facilitar lectura.",
+        "Marcar una ruptura metodológica, documentar la versión y evitar comparaciones directas no válidas.",
+        "Eliminar la nueva fuente y continuar con el método antiguo aunque ya no sea confiable.",
+        "Comparar solo los valores máximos para reducir el efecto del cambio de fuente."
+      ],
+      "correct": 1,
+      "feedback": "La ruptura debe ser visible; no se debe sugerir continuidad donde no existe comparabilidad.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "El referente tiene 3 % de defectos y la organización 7 %. El referente inspecciona una muestra menor y no registra defectos detectados por clientes. ¿Qué corresponde?",
+      "options": [
+        "Adoptar 3 % como meta porque la inspección del referente es más eficiente.",
+        "Alinear el método de detección y cobertura, e incorporar defectos posteriores cuando aplique.",
+        "Comparar únicamente defectos internos para evitar diferencias de servicio posventa.",
+        "Promediar 3 % y 7 % para fijar una meta neutral de 5 %."
+      ],
+      "correct": 1,
+      "feedback": "La detección y cobertura afectan la tasa observada; se requiere un método comparable.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un equipo propone un único índice que promedia utilización, rendimiento y productividad sin normalizar unidades ni ponderaciones. ¿Cuál es el problema?",
+      "options": [
+        "El índice mezcla dimensiones y escalas sin una justificación que permita interpretarlo.",
+        "El índice es inválido porque los tableros no pueden contener más de tres métricas.",
+        "El índice siempre será igual al promedio de las tres metas institucionales.",
+        "La agregación elimina la necesidad de revisar cada indicador por separado."
+      ],
+      "correct": 0,
+      "feedback": "La agregación requiere normalización, ponderación y justificación; no reemplaza el análisis individual.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un piloto redujo 12 % el tiempo, mantuvo defectos y aumentó costos 20 %. La meta del estudio era mejorar eficiencia global. ¿Qué decisión procede?",
+      "options": [
+        "Escalar porque la reducción de tiempo demuestra que la práctica funciona.",
+        "Revisar costo-beneficio y rediseñar el piloto antes de recomendar una expansión.",
+        "Excluir el costo porque no era el indicador principal de la prueba.",
+        "Cancelar el benchmarking y conservar el proceso anterior sin analizar causas."
+      ],
+      "correct": 1,
+      "feedback": "La eficiencia global exige considerar recursos y resultados, no solo tiempo.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Un informe concluye que una sede es menos productiva porque procesa menos casos, pero no considera jornada parcial ni horas-persona. ¿Qué corrección es necesaria?",
+      "options": [
+        "Comparar salidas conformes por recurso consumido y controlar complejidad y jornada.",
+        "Comparar los casos totales porque el volumen refleja la carga del equipo.",
+        "Ajustar el resultado por número de usuarios atendidos sin revisar las horas.",
+        "Usar el porcentaje de cumplimiento de plazo como sustituto de productividad."
+      ],
+      "correct": 0,
+      "feedback": "La productividad requiere relacionar salidas con insumos y contexto comparable.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "La dirección quiere publicar un ranking de sedes. Una sede atiende población rural dispersa y otra población urbana concentrada. ¿Qué condición debe cumplirse?",
+      "options": [
+        "Presentar el ranking sin ajustes para conservar una regla única de comparación.",
+        "Definir criterios de comparabilidad, segmentar condiciones y comunicar limitaciones.",
+        "Excluir la sede rural porque sus condiciones impiden cualquier medición.",
+        "Ordenar las sedes por volumen total y usar ese orden como desempeño general."
+      ],
+      "correct": 1,
+      "feedback": "El contexto puede afectar resultados; el ranking requiere comparabilidad y transparencia.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    },
+    {
+      "question": "Una iniciativa de benchmarking alcanzó la meta durante el piloto, pero no asignó responsable permanente ni actualizó el procedimiento. ¿Cuál es el riesgo principal?",
+      "options": [
+        "La mejora puede perderse al terminar el proyecto por falta de sostenimiento.",
+        "El indicador dejará de poder calcularse porque el piloto ya fue aprobado.",
+        "El referente externo podrá reclamar propiedad sobre el procedimiento interno.",
+        "La organización tendrá que reiniciar todo el estudio con otro referente."
+      ],
+      "correct": 0,
+      "feedback": "La sostenibilidad requiere responsables, estándares y seguimiento institucionalizados.",
+      "hint": "Identifica el objetivo del indicador o del proceso y contrasta cada alternativa con los datos y las condiciones del caso."
+    }
+  ]
+}
